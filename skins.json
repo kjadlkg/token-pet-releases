@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "app": { "version": "0.3.7" },
+  "app": { "version": "0.3.8" },
   "skins": [
     {
       "id": "santa",

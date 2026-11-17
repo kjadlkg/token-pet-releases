@@ -541,6 +541,7 @@
     {
       "id": "bungeoppang",
       "name": "붕어빵",
+      "season": "winter",
       "pet": [
         ["#8a5a2b", 1, -5, 16, 4],
         ["#8a5a2b", 3, -6, 12, 1],

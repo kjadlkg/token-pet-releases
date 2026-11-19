@@ -6,6 +6,8 @@
       "id": "santa",
       "name": "산타",
       "season": "winter",
+      "scene": "christmas",
+      "days": ["12-01", "12-31"],
       "pet": [
         ["#d8362f", 2, 11, 14, 2],
         ["#a82420", 2, 12, 14, 1],
@@ -31,6 +33,8 @@
       "id": "rudolph",
       "name": "루돌프",
       "season": "winter",
+      "scene": "christmas",
+      "days": ["12-01", "12-31"],
       "pet": [
         ["#8a5a2b", 5, -5, 1, 5],
         ["#8a5a2b", 4, -6, 1, 2],

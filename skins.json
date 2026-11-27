@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "app": { "version": "0.7.2" },
+  "app": { "version": "0.8.0" },
   "chat": { "url": "https://token-pet-chat.kjadlkg.workers.dev", "open": 10, "closed": 30, "typing": 3 },
   "skins": [
     {
